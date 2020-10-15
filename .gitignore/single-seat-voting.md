@@ -1,7 +1,7 @@
 ### Theory
 Any recurring single-seat vote will stabilize towards two parties becoming popular and every election being won by someone from either of those parties.
 
-A party is defined as a group of affiliated people. The above holds regardless of what voting system is used.
+A party is defined as a group of affiliated people. The above holds regardless of what voting system is used. For example, the following single-seat voting systems all stabilize into a binary choice: [Plurality](https://en.wikipedia.org/wiki/Plurality_voting), [Instant-runoff](https://en.wikipedia.org/wiki/Instant-runoff_voting) or [Approval ](https://en.wikipedia.org/wiki/Approval_voting) voting.
 
 ### Argument
 In a single-seat voting situation, voters should not blindly vote for their favorite candidate. If the candidate I vote on does not win, my vote is wasted, so I should vote on a candidate that I both like and has a chance of winning: what we generally call "voting tactically". To vote tactically I must know what the chances are of candidates winning, which I can do by looking at past election results and seeing how the current candidates are affiliated with past winners. However, the past election results were also determined by tactical votes. This creates a feedback loop that stabilises when only two popular parties remain.
@@ -12,7 +12,7 @@ To demonstrate that a two popular party state is the stable one, let's look at d
 3. Three parties all have 33% chance to win. Here I can vote tactically on either of the three parties. Popular opinion will determine which party wins, and which party gets the second highest amount of votes. In the next election, the parties that got first and second place in this election will have a higher chance to win than the party who got third place, so this situation is not stable. Note that it moves towards situation 2.
 
 ### Consequences
-Assuming that we want to give voters more than a binary choice when voting, we must not vote for single-seats.
+Assuming that we want to give voters more than a binary choice when voting, we must not vote for single-seats. 
 
 ### Alternatives
 If we allow votes to be recast at any time, voters do not have to refer to past election results to determine how to vote tactically. They can simply vote their favorite candidate and change their vote if it turns out the vote was wasted.
