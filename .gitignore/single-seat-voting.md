@@ -1,7 +1,7 @@
 ### Theory
-Any recurring single-seat vote will stabilize towards two parties, well known groups of affiliated people, becoming popular and every election being won by someone from either of those parties.
+Any recurring single-seat vote will stabilize towards two parties becoming popular and every election being won by someone from either of those parties.
 
-The above holds regardless of what voting system is used.
+A party is defined as a group of affiliated people. The above holds regardless of what voting system is used.
 
 ### Argument
 In a single-seat voting situation, voters should not blindly vote for their favorite candidate. If the candidate I vote on does not win, my vote is wasted, so I should vote on a candidate that I both like and has a chance of winning: what we generally call "voting tactically". To vote tactically I must know what the chances are of candidates winning, which I can do by looking at past election results and seeing how the current candidates are affiliated with past winners. However, the past election results were also determined by tactical votes. This creates a feedback loop that stabilises when only two popular parties remain.
