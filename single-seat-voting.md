@@ -17,4 +17,4 @@ The above three states cover all possible states, and only state 2 is stable so 
 Assuming that we want to give voters more than a binary choice when voting, we must not vote for single-seats. 
 
 ### Alternatives
-If we allow votes to be recast at any time, voters do not have to refer to past election results to determine how to vote tactically. They can simply vote their favorite candidate and change their vote if it turns out the vote was wasted.
+The above assumes that once a vote is cast, it is locked in for some significant amount of time. If instead we allow votes to be recast at any time, voters do not have to refer to past election results to determine how to vote tactically. They can simply vote their favorite candidate and change their vote if it turns out the vote was wasted. This positive effect may already occur if we only allow voters to vote multiple times.
